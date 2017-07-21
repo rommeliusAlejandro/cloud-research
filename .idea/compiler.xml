@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="config_main" target="1.8" />
+      <module name="config_test" target="1.8" />
+      <module name="messenger_main" target="1.8" />
+      <module name="messenger_test" target="1.8" />
+      <module name="persistence_main" target="1.8" />
+      <module name="persistence_test" target="1.8" />
+      <module name="registry_main" target="1.8" />
+      <module name="registry_test" target="1.8" />
+      <module name="share_main" target="1.8" />
+      <module name="share_test" target="1.8" />
+      <module name="zuul_main" target="1.8" />
+      <module name="zuul_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
